@@ -32,7 +32,6 @@
 <a href="https://angular.io" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="flask" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-microsoft-sql-server-a-relational-database-management-system-developed-by-microsoft-logo-color-tal-revivo.png" alt="mssql" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshh20&show_icons=true&locale=en&layout=compact" alt="vanshh20" /></p>
