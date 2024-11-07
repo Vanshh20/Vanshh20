@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Expense/Budget Tracking Application, Women Safety Analysis Project, and Crime Hotspot Detection**
 
-- 🌱 I’m always learning **Reinforcement learning, AI ethics, and NLP**
+- 🌱 I’m always learning **Reinforcement learning, and NLP**
 
 - 💬 Ask me about **AI/ML models, data analytics, and predictive modeling**
 
