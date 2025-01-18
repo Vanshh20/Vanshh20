@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshh20&label=Profile%20views&color=brightgreen&style=flat" alt="vanshh20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshh20" alt="vanshh20" /></a> </p>
-
 - 🔭 I’m currently working on **Expense/Budget Tracking Application, Women Safety Analysis Project, and Crime Hotspot Detection**
 
 - 🌱 I’m always learning **Reinforcement learning, and NLP**
